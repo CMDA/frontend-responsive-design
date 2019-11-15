@@ -1,7 +1,7 @@
 # frontend-responsive-design
 Opdracht voor het vak Frontend @CMD Amsterdam
 
-[Beschrijf hier wat ij gaat doen]
+[Beschrijf hier wat jij gaat doen]
 
 ## Criteria
 ### 1.) De HTML is gestructureerd en semantisch opgemaakt
