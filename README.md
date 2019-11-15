@@ -1,4 +1,4 @@
-# frontend-responsive-design
+# Frontend Responsive Design
 Eindopdracht voor het vak Frontend @CMD Amsterdam
 
 <!-- Beschrijf hier wat jij gaat doen voor de opdracht -->
