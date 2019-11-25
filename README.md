@@ -1,7 +1,7 @@
 # frontend-responsive-design
 Opdracht voor het vak Frontend @CMD Amsterdam
 
-[Beschrijf hier wat ij gaat doen]
+Ik ga een verhalenpagina maken, zoals de opdracht van jaar 17/18. Dit houdt in dat ik een inlog/aanmeld pagina maak, een overzichtspagina en 3 detailpagina's met de uitgewerkte verhalen.
 
 ## Criteria
 ### 1.) De HTML is gestructureerd en semantisch opgemaakt
